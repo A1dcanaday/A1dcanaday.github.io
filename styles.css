@@ -1,5 +1,5 @@
 body {
-    background:#f8feff;
+    background:#190994;
     font-family:Arial, Helvetica, sans-serif;
   }
   h1 {
@@ -15,7 +15,7 @@ body {
       width: 30%;
       margin: 10px;
       padding: 20px 10px;
-      background: yellow;
+      background: rgb(130, 130, 250);
       border-radius: 25%;
   }
 .about{
